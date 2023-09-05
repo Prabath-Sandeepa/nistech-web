@@ -1,0 +1,1505 @@
+{
+    "manifest_version": "1.0.14",
+    "title": "CarRepair - Local Business",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/puzzlerbox.com\/template-kits",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home",
+            "screenshot": "screenshots\/home.jpg",
+            "source": "templates\/home.json",
+            "preview_url": "https:\/\/puzzlerbox.com\/template-kits\/car-repair\/template-kit\/home\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About",
+            "screenshot": "screenshots\/about.jpg",
+            "source": "templates\/about.json",
+            "preview_url": "https:\/\/puzzlerbox.com\/template-kits\/car-repair\/template-kit\/about\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Services",
+            "screenshot": "screenshots\/services.jpg",
+            "source": "templates\/services.json",
+            "preview_url": "https:\/\/puzzlerbox.com\/template-kits\/car-repair\/template-kit\/services\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Services Single Page",
+            "screenshot": "screenshots\/services-single-page.jpg",
+            "source": "templates\/services-single-page.json",
+            "preview_url": "https:\/\/puzzlerbox.com\/template-kits\/car-repair\/template-kit\/services-single-page\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "FAQ",
+            "screenshot": "screenshots\/faq.jpg",
+            "source": "templates\/faq.json",
+            "preview_url": "https:\/\/puzzlerbox.com\/template-kits\/car-repair\/template-kit\/faq\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Team",
+            "screenshot": "screenshots\/team.jpg",
+            "source": "templates\/team.json",
+            "preview_url": "https:\/\/puzzlerbox.com\/template-kits\/car-repair\/template-kit\/team\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Cooming Soon",
+            "screenshot": "screenshots\/cooming-soon.jpg",
+            "source": "templates\/cooming-soon.json",
+            "preview_url": "https:\/\/puzzlerbox.com\/template-kits\/car-repair\/template-kit\/cooming-soon\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "404",
+            "screenshot": "screenshots\/404.jpg",
+            "source": "templates\/404.json",
+            "preview_url": "https:\/\/puzzlerbox.com\/template-kits\/car-repair\/template-kit\/404\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-404",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact",
+            "screenshot": "screenshots\/contact.jpg",
+            "source": "templates\/contact.json",
+            "preview_url": "https:\/\/puzzlerbox.com\/template-kits\/car-repair\/template-kit\/contact\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Header",
+            "screenshot": "screenshots\/header.jpg",
+            "source": "templates\/header.json",
+            "preview_url": "https:\/\/puzzlerbox.com\/template-kits\/car-repair\/template-kit\/header\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Footer",
+            "screenshot": "screenshots\/footer.jpg",
+            "source": "templates\/footer.json",
+            "preview_url": "https:\/\/puzzlerbox.com\/template-kits\/car-repair\/template-kit\/footer\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor - Header, Footer & Blocks",
+            "version": "1.5.1",
+            "file": "header-footer-elementor\/header-footer-elementor.php",
+            "author": "Brainstorm Force, Nikhil Chavan"
+        },
+        {
+            "name": "Elementor",
+            "version": "2.9.14",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "images": [
+        {
+            "filename": "workers-checking-car-in-service-34CN7QD.jpg",
+            "thumbnail_url": "https:\/\/puzzlerbox.com\/template-kits\/car-repair\/wp-content\/uploads\/sites\/35\/2020\/05\/workers-checking-car-in-service-34CN7QD-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 322936,
+            "dimensions": [
+                1800,
+                1200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-34CN7QD"
+        },
+        {
+            "filename": "mb-workers-checking-car-in-service-34CN7QD.jpg",
+            "thumbnail_url": "https:\/\/puzzlerbox.com\/template-kits\/car-repair\/wp-content\/uploads\/sites\/35\/2020\/07\/mb-workers-checking-car-in-service-34CN7QD.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 120318,
+            "dimensions": [
+                600,
+                1045
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-34CN7QD"
+        },
+        {
+            "filename": "service-history-3NGP93.png",
+            "thumbnail_url": "https:\/\/puzzlerbox.com\/template-kits\/car-repair\/wp-content\/uploads\/sites\/35\/2020\/05\/service-history-3NGP93.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 3100,
+            "dimensions": [
+                125,
+                125
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/67-car-service-icons-3NGP93"
+        },
+        {
+            "filename": "diagnostic-3NGP93.png",
+            "thumbnail_url": "https:\/\/puzzlerbox.com\/template-kits\/car-repair\/wp-content\/uploads\/sites\/35\/2020\/07\/diagnostic-3NGP93.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 2608,
+            "dimensions": [
+                125,
+                125
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/67-car-service-icons-3NGP93"
+        },
+        {
+            "filename": "good-car-diagnostic-3NGP93.png",
+            "thumbnail_url": "https:\/\/puzzlerbox.com\/template-kits\/car-repair\/wp-content\/uploads\/sites\/35\/2020\/07\/good-car-diagnostic-3NGP93.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 4147,
+            "dimensions": [
+                125,
+                125
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/67-car-service-icons-3NGP93"
+        },
+        {
+            "filename": "repairing-automobile-5UG8KDY.jpg",
+            "thumbnail_url": "https:\/\/puzzlerbox.com\/template-kits\/car-repair\/wp-content\/uploads\/sites\/35\/2020\/05\/repairing-automobile-5UG8KDY-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 94199,
+            "dimensions": [
+                800,
+                533
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-5UG8KDY"
+        },
+        {
+            "filename": "bg_lines.png",
+            "thumbnail_url": "https:\/\/puzzlerbox.com\/template-kits\/car-repair\/wp-content\/uploads\/sites\/35\/2020\/05\/bg_lines-600x300.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/services-single-page.json",
+                    "name": "Services Single Page"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/cooming-soon.json",
+                    "name": "Cooming Soon"
+                },
+                {
+                    "source": "templates\/404.json",
+                    "name": "404"
+                }
+            ],
+            "filesize": 13105,
+            "dimensions": [
+                3000,
+                1500
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "quick-help-from-the-internet-5ZKU2QF.jpg",
+            "thumbnail_url": "https:\/\/puzzlerbox.com\/template-kits\/car-repair\/wp-content\/uploads\/sites\/35\/2020\/05\/quick-help-from-the-internet-5ZKU2QF-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 92278,
+            "dimensions": [
+                800,
+                533
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-5ZKU2QF"
+        },
+        {
+            "filename": "brake-pad-3NGP93.png",
+            "thumbnail_url": "https:\/\/puzzlerbox.com\/template-kits\/car-repair\/wp-content\/uploads\/sites\/35\/2020\/07\/brake-pad-3NGP93.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 3308,
+            "dimensions": [
+                125,
+                125
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/67-car-service-icons-3NGP93"
+        },
+        {
+            "filename": "cog-3NGP93.png",
+            "thumbnail_url": "https:\/\/puzzlerbox.com\/template-kits\/car-repair\/wp-content\/uploads\/sites\/35\/2020\/05\/cog-3NGP93.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 3957,
+            "dimensions": [
+                125,
+                125
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/67-car-service-icons-3NGP93"
+        },
+        {
+            "filename": "spark-3NGP93.png",
+            "thumbnail_url": "https:\/\/puzzlerbox.com\/template-kits\/car-repair\/wp-content\/uploads\/sites\/35\/2020\/05\/spark-3NGP93.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 2991,
+            "dimensions": [
+                125,
+                125
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/67-car-service-icons-3NGP93"
+        },
+        {
+            "filename": "oil-pressure-3NGP93.png",
+            "thumbnail_url": "https:\/\/puzzlerbox.com\/template-kits\/car-repair\/wp-content\/uploads\/sites\/35\/2020\/05\/oil-pressure-3NGP93.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 1679,
+            "dimensions": [
+                125,
+                125
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/67-car-service-icons-3NGP93"
+        },
+        {
+            "filename": "car-lifter-3NGP93.png",
+            "thumbnail_url": "https:\/\/puzzlerbox.com\/template-kits\/car-repair\/wp-content\/uploads\/sites\/35\/2020\/07\/car-lifter-3NGP93.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 4859,
+            "dimensions": [
+                125,
+                125
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/67-car-service-icons-3NGP93"
+        },
+        {
+            "filename": "suspension-3NGP93.png",
+            "thumbnail_url": "https:\/\/puzzlerbox.com\/template-kits\/car-repair\/wp-content\/uploads\/sites\/35\/2020\/05\/suspension-3NGP93.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 2543,
+            "dimensions": [
+                125,
+                125
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/67-car-service-icons-3NGP93"
+        },
+        {
+            "filename": "ico_06_33CHTL.png",
+            "thumbnail_url": "https:\/\/puzzlerbox.com\/template-kits\/car-repair\/wp-content\/uploads\/sites\/35\/2020\/05\/ico_06_33CHTL.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 1609,
+            "dimensions": [
+                125,
+                107
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/car-service-icons-collection-33CHTL"
+        },
+        {
+            "filename": "ico_05_33CHTL.png",
+            "thumbnail_url": "https:\/\/puzzlerbox.com\/template-kits\/car-repair\/wp-content\/uploads\/sites\/35\/2020\/05\/ico_05_33CHTL.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 1725,
+            "dimensions": [
+                125,
+                107
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/car-service-icons-collection-33CHTL"
+        },
+        {
+            "filename": "ico_01_33CHTL.png",
+            "thumbnail_url": "https:\/\/puzzlerbox.com\/template-kits\/car-repair\/wp-content\/uploads\/sites\/35\/2020\/05\/ico_01_33CHTL.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 1363,
+            "dimensions": [
+                125,
+                107
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/car-service-icons-collection-33CHTL"
+        },
+        {
+            "filename": "ico_02_33CHTL.png",
+            "thumbnail_url": "https:\/\/puzzlerbox.com\/template-kits\/car-repair\/wp-content\/uploads\/sites\/35\/2020\/05\/ico_02_33CHTL.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 1444,
+            "dimensions": [
+                125,
+                107
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/car-service-icons-collection-33CHTL"
+        },
+        {
+            "filename": "ico_04_33CHTL.png",
+            "thumbnail_url": "https:\/\/puzzlerbox.com\/template-kits\/car-repair\/wp-content\/uploads\/sites\/35\/2020\/05\/ico_04_33CHTL.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 1756,
+            "dimensions": [
+                125,
+                107
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/car-service-icons-collection-33CHTL"
+        },
+        {
+            "filename": "ico_03_33CHTL.png",
+            "thumbnail_url": "https:\/\/puzzlerbox.com\/template-kits\/car-repair\/wp-content\/uploads\/sites\/35\/2020\/05\/ico_03_33CHTL.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 2316,
+            "dimensions": [
+                125,
+                107
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/car-service-icons-collection-33CHTL"
+        },
+        {
+            "filename": "smiling-worker-in-car-service-3U2S8XE.jpg",
+            "thumbnail_url": "https:\/\/puzzlerbox.com\/template-kits\/car-repair\/wp-content\/uploads\/sites\/35\/2020\/05\/smiling-worker-in-car-service-3U2S8XE-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 90365,
+            "dimensions": [
+                1000,
+                667
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-3U2S8XE"
+        },
+        {
+            "filename": "happy-young-man-in-shades-driving-convertible-car-PTNPUTL.jpg",
+            "thumbnail_url": "https:\/\/puzzlerbox.com\/template-kits\/car-repair\/wp-content\/uploads\/sites\/35\/2020\/05\/happy-young-man-in-shades-driving-convertible-car-PTNPUTL-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 162013,
+            "dimensions": [
+                1200,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PTNPUTL"
+        },
+        {
+            "filename": "confident-young-businessman-standing-in-office-P9XMEU5.jpg",
+            "thumbnail_url": "https:\/\/puzzlerbox.com\/template-kits\/car-repair\/wp-content\/uploads\/sites\/35\/2020\/05\/confident-young-businessman-standing-in-office-P9XMEU5.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 6998,
+            "dimensions": [
+                200,
+                200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/confident-young-businessman-standing-in-office-P9XMEU5"
+        },
+        {
+            "filename": "confident-businessman-in-conference-room-J5SV328.jpg",
+            "thumbnail_url": "https:\/\/puzzlerbox.com\/template-kits\/car-repair\/wp-content\/uploads\/sites\/35\/2020\/05\/confident-businessman-in-conference-room-J5SV328.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 4202,
+            "dimensions": [
+                120,
+                120
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-J5SV328"
+        },
+        {
+            "filename": "senior-man-smiling-while-driving-on-a-country-road-RXY3HH6.jpg",
+            "thumbnail_url": "https:\/\/puzzlerbox.com\/template-kits\/car-repair\/wp-content\/uploads\/sites\/35\/2020\/05\/senior-man-smiling-while-driving-on-a-country-road-RXY3HH6-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 142965,
+            "dimensions": [
+                1200,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-RXY3HH6"
+        },
+        {
+            "filename": "african-guy-touching-his-new-vehicle-in-dealership-BTUCFZF.jpg",
+            "thumbnail_url": "https:\/\/puzzlerbox.com\/template-kits\/car-repair\/wp-content\/uploads\/sites\/35\/2020\/05\/african-guy-touching-his-new-vehicle-in-dealership-BTUCFZF-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 123734,
+            "dimensions": [
+                1200,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-BTUCFZF"
+        },
+        {
+            "filename": "confident-group-of-diverse-young-entrepreneurs-smi-BR8JD2P.jpg",
+            "thumbnail_url": "https:\/\/puzzlerbox.com\/template-kits\/car-repair\/wp-content\/uploads\/sites\/35\/2020\/05\/confident-group-of-diverse-young-entrepreneurs-smi-BR8JD2P.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 4160,
+            "dimensions": [
+                120,
+                120
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-BR8JD2P"
+        },
+        {
+            "filename": "tire-serviceman-isolated-on-white-background-PK3Y4WV.jpg",
+            "thumbnail_url": "https:\/\/puzzlerbox.com\/template-kits\/car-repair\/wp-content\/uploads\/sites\/35\/2020\/05\/tire-serviceman-isolated-on-white-background-PK3Y4WV-600x899.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 93632,
+            "dimensions": [
+                800,
+                1198
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PK3Y4WV"
+        },
+        {
+            "filename": "worker-shaking-hands-with-client-in-car-service-sh-UYJTLKE.jpg",
+            "thumbnail_url": "https:\/\/puzzlerbox.com\/template-kits\/car-repair\/wp-content\/uploads\/sites\/35\/2020\/07\/worker-shaking-hands-with-client-in-car-service-sh-UYJTLKE-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 304435,
+            "dimensions": [
+                1800,
+                1200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-UYJTLKE"
+        },
+        {
+            "filename": "car-service-shop-JTVAB7Z.jpg",
+            "thumbnail_url": "https:\/\/puzzlerbox.com\/template-kits\/car-repair\/wp-content\/uploads\/sites\/35\/2020\/07\/car-service-shop-JTVAB7Z-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 136744,
+            "dimensions": [
+                800,
+                533
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-JTVAB7Z"
+        },
+        {
+            "filename": "mechanic-man-or-smith-repairing-car-at-workshop-PLNY9CQ.jpg",
+            "thumbnail_url": "https:\/\/puzzlerbox.com\/template-kits\/car-repair\/wp-content\/uploads\/sites\/35\/2020\/07\/mechanic-man-or-smith-repairing-car-at-workshop-PLNY9CQ-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 95275,
+            "dimensions": [
+                800,
+                533
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PLNY9CQ"
+        },
+        {
+            "filename": "professional-repairman-X2P9HQJ.jpg",
+            "thumbnail_url": "https:\/\/puzzlerbox.com\/template-kits\/car-repair\/wp-content\/uploads\/sites\/35\/2020\/07\/professional-repairman-X2P9HQJ-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 88451,
+            "dimensions": [
+                800,
+                533
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-X2P9HQJ"
+        },
+        {
+            "filename": "two-workers-posing-in-car-service-JQKYCHM.jpg",
+            "thumbnail_url": "https:\/\/puzzlerbox.com\/template-kits\/car-repair\/wp-content\/uploads\/sites\/35\/2020\/07\/two-workers-posing-in-car-service-JQKYCHM-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 80896,
+            "dimensions": [
+                800,
+                533
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-JQKYCHM"
+        },
+        {
+            "filename": "polishing-a-car-Y52SAXG.jpg",
+            "thumbnail_url": "https:\/\/puzzlerbox.com\/template-kits\/car-repair\/wp-content\/uploads\/sites\/35\/2020\/07\/polishing-a-car-Y52SAXG-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 65382,
+            "dimensions": [
+                800,
+                533
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-Y52SAXG"
+        },
+        {
+            "filename": "team-smiling-worker-in-car-service-3U2S8XE.jpg",
+            "thumbnail_url": "https:\/\/puzzlerbox.com\/template-kits\/car-repair\/wp-content\/uploads\/sites\/35\/2020\/07\/team-smiling-worker-in-car-service-3U2S8XE.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services-single-page.json",
+                    "name": "Services Single Page"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 37791,
+            "dimensions": [
+                350,
+                519
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-3U2S8XE"
+        },
+        {
+            "filename": "car-mechanic-posing-in-shop-FSYPXAW.jpg",
+            "thumbnail_url": "https:\/\/puzzlerbox.com\/template-kits\/car-repair\/wp-content\/uploads\/sites\/35\/2020\/07\/car-mechanic-posing-in-shop-FSYPXAW.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services-single-page.json",
+                    "name": "Services Single Page"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 35033,
+            "dimensions": [
+                350,
+                519
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-FSYPXAW"
+        },
+        {
+            "filename": "repairman-with-a-checklist-car-service-station-FLFMF7P.jpg",
+            "thumbnail_url": "https:\/\/puzzlerbox.com\/template-kits\/car-repair\/wp-content\/uploads\/sites\/35\/2020\/07\/repairman-with-a-checklist-car-service-station-FLFMF7P.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services-single-page.json",
+                    "name": "Services Single Page"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 44077,
+            "dimensions": [
+                350,
+                519
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-FLFMF7P"
+        },
+        {
+            "filename": "cheerful-worker-at-plant-GX2WAUT.jpg",
+            "thumbnail_url": "https:\/\/puzzlerbox.com\/template-kits\/car-repair\/wp-content\/uploads\/sites\/35\/2020\/07\/cheerful-worker-at-plant-GX2WAUT.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services-single-page.json",
+                    "name": "Services Single Page"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 46131,
+            "dimensions": [
+                350,
+                519
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-GX2WAUT"
+        },
+        {
+            "filename": "03.png",
+            "thumbnail_url": "https:\/\/puzzlerbox.com\/template-kits\/car-repair\/wp-content\/uploads\/sites\/35\/2020\/07\/03.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/services-single-page.json",
+                    "name": "Services Single Page"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 5061,
+            "dimensions": [
+                350,
+                350
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "08.png",
+            "thumbnail_url": "https:\/\/puzzlerbox.com\/template-kits\/car-repair\/wp-content\/uploads\/sites\/35\/2020\/07\/08.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/services-single-page.json",
+                    "name": "Services Single Page"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 7623,
+            "dimensions": [
+                350,
+                350
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "11.png",
+            "thumbnail_url": "https:\/\/puzzlerbox.com\/template-kits\/car-repair\/wp-content\/uploads\/sites\/35\/2020\/07\/11.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/services-single-page.json",
+                    "name": "Services Single Page"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 9005,
+            "dimensions": [
+                350,
+                350
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "12.png",
+            "thumbnail_url": "https:\/\/puzzlerbox.com\/template-kits\/car-repair\/wp-content\/uploads\/sites\/35\/2020\/07\/12.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/services-single-page.json",
+                    "name": "Services Single Page"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 6275,
+            "dimensions": [
+                350,
+                350
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "13.png",
+            "thumbnail_url": "https:\/\/puzzlerbox.com\/template-kits\/car-repair\/wp-content\/uploads\/sites\/35\/2020\/07\/13.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/services-single-page.json",
+                    "name": "Services Single Page"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 8915,
+            "dimensions": [
+                350,
+                350
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "06.png",
+            "thumbnail_url": "https:\/\/puzzlerbox.com\/template-kits\/car-repair\/wp-content\/uploads\/sites\/35\/2020\/07\/06.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/services-single-page.json",
+                    "name": "Services Single Page"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 8777,
+            "dimensions": [
+                350,
+                350
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "man-mechanic-repairing-a-car-in-a-garage-PNM746R.jpg",
+            "thumbnail_url": "https:\/\/puzzlerbox.com\/template-kits\/car-repair\/wp-content\/uploads\/sites\/35\/2020\/07\/man-mechanic-repairing-a-car-in-a-garage-PNM746R-600x303.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/services-single-page.json",
+                    "name": "Services Single Page"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 262613,
+            "dimensions": [
+                1800,
+                909
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PNM746R"
+        },
+        {
+            "filename": "car-service-client-signing-document-JEFWKVS.jpg",
+            "thumbnail_url": "https:\/\/puzzlerbox.com\/template-kits\/car-repair\/wp-content\/uploads\/sites\/35\/2020\/07\/car-service-client-signing-document-JEFWKVS.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 93302,
+            "dimensions": [
+                475,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-JEFWKVS"
+        },
+        {
+            "filename": "car-brake-disc-at-repair-station-P8Q4P29.jpg",
+            "thumbnail_url": "https:\/\/puzzlerbox.com\/template-kits\/car-repair\/wp-content\/uploads\/sites\/35\/2020\/07\/car-brake-disc-at-repair-station-P8Q4P29.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services-single-page.json",
+                    "name": "Services Single Page"
+                },
+                {
+                    "source": "templates\/404.json",
+                    "name": "404"
+                }
+            ],
+            "filesize": 31479,
+            "dimensions": [
+                350,
+                350
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-P8Q4P29"
+        },
+        {
+            "filename": "check-brake-system-and-car-suspension-26K8F4T.jpg",
+            "thumbnail_url": "https:\/\/puzzlerbox.com\/template-kits\/car-repair\/wp-content\/uploads\/sites\/35\/2020\/07\/check-brake-system-and-car-suspension-26K8F4T-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services-single-page.json",
+                    "name": "Services Single Page"
+                }
+            ],
+            "filesize": 109273,
+            "dimensions": [
+                800,
+                533
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-26K8F4T"
+        },
+        {
+            "filename": "damaged-brake-disc-replace-Y3NS9RZ.jpg",
+            "thumbnail_url": "https:\/\/puzzlerbox.com\/template-kits\/car-repair\/wp-content\/uploads\/sites\/35\/2020\/07\/damaged-brake-disc-replace-Y3NS9RZ-600x398.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services-single-page.json",
+                    "name": "Services Single Page"
+                }
+            ],
+            "filesize": 81541,
+            "dimensions": [
+                800,
+                530
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-Y3NS9RZ"
+        },
+        {
+            "filename": "g_car-brake-disc-at-repair-station-P8Q4P29.jpg",
+            "thumbnail_url": "https:\/\/puzzlerbox.com\/template-kits\/car-repair\/wp-content\/uploads\/sites\/35\/2020\/07\/g_car-brake-disc-at-repair-station-P8Q4P29-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services-single-page.json",
+                    "name": "Services Single Page"
+                }
+            ],
+            "filesize": 88101,
+            "dimensions": [
+                800,
+                533
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-P8Q4P29"
+        },
+        {
+            "filename": "garage-motor-maintenance-mechanic-fixing-spare-con-PK9N4X9.jpg",
+            "thumbnail_url": "https:\/\/puzzlerbox.com\/template-kits\/car-repair\/wp-content\/uploads\/sites\/35\/2020\/07\/garage-motor-maintenance-mechanic-fixing-spare-con-PK9N4X9-600x401.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services-single-page.json",
+                    "name": "Services Single Page"
+                }
+            ],
+            "filesize": 101950,
+            "dimensions": [
+                800,
+                534
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PK9N4X9"
+        },
+        {
+            "filename": "mechanic-with-screwdriver-changing-car-tire-P8D5VFA.jpg",
+            "thumbnail_url": "https:\/\/puzzlerbox.com\/template-kits\/car-repair\/wp-content\/uploads\/sites\/35\/2020\/07\/mechanic-with-screwdriver-changing-car-tire-P8D5VFA-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services-single-page.json",
+                    "name": "Services Single Page"
+                }
+            ],
+            "filesize": 81210,
+            "dimensions": [
+                800,
+                533
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-P8D5VFA"
+        },
+        {
+            "filename": "worker-repairing-vehicle-on-lift-car-service-FAF7HLD.jpg",
+            "thumbnail_url": "https:\/\/puzzlerbox.com\/template-kits\/car-repair\/wp-content\/uploads\/sites\/35\/2020\/07\/worker-repairing-vehicle-on-lift-car-service-FAF7HLD-600x401.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services-single-page.json",
+                    "name": "Services Single Page"
+                }
+            ],
+            "filesize": 63015,
+            "dimensions": [
+                800,
+                534
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-FAF7HLD"
+        },
+        {
+            "filename": "gear-3NGP93.png",
+            "thumbnail_url": "https:\/\/puzzlerbox.com\/template-kits\/car-repair\/wp-content\/uploads\/sites\/35\/2020\/07\/gear-3NGP93.png",
+            "templates": [
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 2639,
+            "dimensions": [
+                125,
+                125
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/67-car-service-icons-3NGP93"
+        },
+        {
+            "filename": "classic-vintage-certificate-diploma-template-PJ7KE2B-2020-05-28.jpg",
+            "thumbnail_url": "https:\/\/puzzlerbox.com\/template-kits\/car-repair\/wp-content\/uploads\/sites\/35\/2020\/07\/classic-vintage-certificate-diploma-template-PJ7KE2B-2020-05-28.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 40271,
+            "dimensions": [
+                500,
+                612
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/classic-vintage-certificate-diploma-template-PJ7KE2B"
+        },
+        {
+            "filename": "quick-help-from-the-internet-5ZKU2QF.jpg",
+            "thumbnail_url": "https:\/\/puzzlerbox.com\/template-kits\/car-repair\/wp-content\/uploads\/sites\/35\/2020\/07\/quick-help-from-the-internet-5ZKU2QF.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 54340,
+            "dimensions": [
+                350,
+                519
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-5ZKU2QF"
+        },
+        {
+            "filename": "two-mechanics-in-uniform-are-working-in-auto-servi-ADW4TSQ.jpg",
+            "thumbnail_url": "https:\/\/puzzlerbox.com\/template-kits\/car-repair\/wp-content\/uploads\/sites\/35\/2020\/07\/two-mechanics-in-uniform-are-working-in-auto-servi-ADW4TSQ.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 46698,
+            "dimensions": [
+                350,
+                519
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-ADW4TSQ"
+        },
+        {
+            "filename": "specialist-near-car-diagnostic-pc-in-a-workshop-PVX6E87.jpg",
+            "thumbnail_url": "https:\/\/puzzlerbox.com\/template-kits\/car-repair\/wp-content\/uploads\/sites\/35\/2020\/07\/specialist-near-car-diagnostic-pc-in-a-workshop-PVX6E87.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 39413,
+            "dimensions": [
+                350,
+                519
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PVX6E87"
+        },
+        {
+            "filename": "mechanic-at-car-service-V6QC2E3.jpg",
+            "thumbnail_url": "https:\/\/puzzlerbox.com\/template-kits\/car-repair\/wp-content\/uploads\/sites\/35\/2020\/07\/mechanic-at-car-service-V6QC2E3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 42095,
+            "dimensions": [
+                350,
+                519
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-V6QC2E3"
+        },
+        {
+            "filename": "car-tire-service-worker-sitting-on-car-tyres-PXMHDZ3.jpg",
+            "thumbnail_url": "https:\/\/puzzlerbox.com\/template-kits\/car-repair\/wp-content\/uploads\/sites\/35\/2020\/07\/car-tire-service-worker-sitting-on-car-tyres-PXMHDZ3-600x401.jpg",
+            "templates": [
+                {
+                    "source": "templates\/cooming-soon.json",
+                    "name": "Cooming Soon"
+                }
+            ],
+            "filesize": 61191,
+            "dimensions": [
+                1000,
+                668
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PXMHDZ3"
+        },
+        {
+            "filename": "robotic-engineer-repair-service-poster-DECP93Q.jpg",
+            "thumbnail_url": "https:\/\/puzzlerbox.com\/template-kits\/car-repair\/wp-content\/uploads\/sites\/35\/2020\/07\/robotic-engineer-repair-service-poster-DECP93Q-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/404.json",
+                    "name": "404"
+                }
+            ],
+            "filesize": 171419,
+            "dimensions": [
+                1800,
+                1199
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-DECP93Q"
+        }
+    ]
+}
